@@ -1,3 +1,5 @@
 def fizzbuzz(x)
-  if 
+  if x == 3
+    puts "Fizz"
+  elsif 
 end
