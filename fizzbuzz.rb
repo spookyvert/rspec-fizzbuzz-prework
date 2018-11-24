@@ -5,6 +5,4 @@ def fizzbuzz(x)
     puts "Buzz"
   elsif  x % 3 == 0 && x % 5 == 0
     puts "FizzBuzz"
-  else 
-    nil
 end
